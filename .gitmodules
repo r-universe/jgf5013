@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/jgf5013/jgf5013.r-universe.dev
 	branch = HEAD
+[submodule "escape2024"]
+	path = escape2024
+	url = https://github.com/jgf5013/escape2024
